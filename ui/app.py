@@ -18,3 +18,4 @@ else:
 st.error(f"Backend Error: {response.status_code}")
 except Exception as e:
 st.error("Could not connect to the backend.")
+
