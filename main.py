@@ -17,4 +17,3 @@ return {
 "username": result["username"],
 "extracted_data": result.get("github_data"),
 "mentor_feedback": result.get("feedback")
-}
